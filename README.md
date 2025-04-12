@@ -4,10 +4,9 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 
 ## About Me
 
-- 🔭 I’m currently working on my own open source projects.
+- 🔭 I’m currently actively working on my own open source projects: PuerhLab.
 - 🌱 I’m currently learning preliminary concepts in digital imaging processing and CUDA programming.
 - 👯 I’m looking to collaborate on innovative and impactful projects.
-- 💬 Ask me about web development, data science, and open source contributions.
 - 📫 How to reach me: [Email](mailto:yzi2@wisc.edu)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy landscape photography and playing with my cat in my spare time.
@@ -22,11 +21,11 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 - JavaScript
 
 ### Frameworks & Libraries
-- OpenCV
-- LibRaw
 - SpringBoot
 - Qt
 - Vue
+- OpenCV
+- PyTorch
 
 ### Tools & Platforms
 - Git & GitHub
