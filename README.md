@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 - 👯 I’m looking to collaborate on innovative and impactful projects.
 - 📫 How to reach me: [Email](mailto:yzi2@wisc.edu)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy landscape photography and playing with my cat in my spare time.
+- ⚡ Fun fact: I am an amateur landscape/street photographer. Here is my [portfolio](https://500px.com.cn/zidagegallery).
 
 ## My Skills
 
