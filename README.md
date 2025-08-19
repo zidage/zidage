@@ -31,7 +31,9 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 - Git & GitHub
 - Docker
 - Azure
-
+## WakaTime
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zidage&layout=compact&theme=radical)
@@ -47,3 +49,4 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 - [Personal Website](https://zidage.github.io)
 
 Thanks for visiting my profile! Have a great day! 😊
+
