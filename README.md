@@ -33,6 +33,15 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 - Azure
 ## WakaTime
 <!--START_SECTION:waka-->
+
+```txt
+C++      36 hrs 48 mins  ████████████████████████▒   97.78 %
+CMake    43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Python   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+YAML     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
 <!--END_SECTION:waka-->
 ## Top Languages
 
