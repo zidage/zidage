@@ -35,7 +35,8 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Makefile     16 mins         ████████████████████▓░░░░   82.45 %
+PowerShell   3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.55 %
 ```
 
 <!--END_SECTION:waka-->
