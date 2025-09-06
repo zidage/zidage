@@ -52,8 +52,8 @@ PowerShell   3 mins          ████▒░░░░░░░░░░░░
 
 - [LinkedIn](https://www.linkedin.com/in/yurun-zi-21105b326)
 - [Bilibili](https://space.bilibili.com/3101288)
-- [Personal Website](https://zidage.github.io)
 
 Thanks for visiting my profile! Have a great day! 😊
+
 
 
