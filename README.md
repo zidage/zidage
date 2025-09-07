@@ -35,8 +35,11 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 <!--START_SECTION:waka-->
 
 ```txt
-Makefile     16 mins         ████████████████████▓░░░░   82.45 %
-PowerShell   3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.55 %
+C++          2 hrs 19 mins   █████████████████████▓░░░   86.88 %
+Makefile     17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
+PowerShell   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+Cuda         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+CMake        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
