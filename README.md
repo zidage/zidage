@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 
 ## About Me
 
-- 🔭 I’m currently actively working on my own open source project: PuerhLab.
-- 🌱 I’m currently learning preliminary concepts in digital imaging processing and CUDA programming.
+- 🔭 I’m currently working on my own open source project: Pu-erh Lab.
+- 🌱 I’m currently learning digital imaging processing, CUDA programming, and Human-in-the-loop AI agents.
 - 👯 I’m looking to collaborate on innovative and impactful projects.
 - 📫 How to reach me: [Email](mailto:yzi2@wisc.edu)
 - 😄 Pronouns: He/Him
@@ -57,6 +57,7 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
 - [Bilibili](https://space.bilibili.com/3101288)
 
 Thanks for visiting my profile! Have a great day! 😊
+
 
 
 
