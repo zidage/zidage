@@ -35,11 +35,11 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 <!--START_SECTION:waka-->
 
 ```txt
-C++        14 hrs 55 mins  ██████████████████░░░░░░░   71.72 %
-Java       3 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
-INI        1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-Python     53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-CMake      19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+C++        12 hrs 2 mins   ████████████████▒░░░░░░░░   65.45 %
+Java       3 hrs 44 mins   █████░░░░░░░░░░░░░░░░░░░░   20.31 %
+Python     1 hr 52 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
+INI        23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Other      12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
 <!--END_SECTION:waka-->
