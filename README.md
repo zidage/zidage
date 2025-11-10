@@ -1,18 +1,7 @@
 # Hi there, I'm Yurun Zi! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer and technology enthusiast.
-
-## About Me
-
-- 🔭 I’m currently working on my own open source project: Pu-erh Lab.
-- 🌱 I’m currently learning digital imaging processing, CUDA programming, and Human-in-the-loop AI agents.
-
-## My Skills
-
-### Languages
-- C++/C
-- Java
-- Python
+Creator of [Pu-erh Lab](https://github.com/zidage/PuerhLab), an AI-powered professional photo editing and managing software.
+My goal is to make software that is useful and powerful.
 
 ## WakaTime
 <!--START_SECTION:waka-->
@@ -33,15 +22,3 @@ JSON          0 secs          ░░░░░░░░░░░░░░░░�
 ## GitHub Stats
 
 ![Zidage's GitHub stats](https://github-readme-stats.vercel.app/api?username=zidage&show_icons=true&theme=radical)
-
-## Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/yurun-zi-21105b326)
-- [Bilibili](https://space.bilibili.com/3101288)
-
-Thanks for visiting my profile! Have a great day! 😊
-
-
-
-
-
