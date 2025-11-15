@@ -8,11 +8,11 @@ My goal is to make software that is useful and powerful.
 <!--START_SECTION:waka-->
 
 ```txt
-C++           5 hrs 44 mins   █████████████████▒░░░░░░░   69.01 %
-Python        2 hrs           ██████░░░░░░░░░░░░░░░░░░░   24.02 %
-CMake         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-Markdown      9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-JSON          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+C++          3 hrs 15 mins   ██████████████░░░░░░░░░░░   55.81 %
+Python       2 hrs           ████████▓░░░░░░░░░░░░░░░░   34.26 %
+CMake        13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+Markdown     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+JSON         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
 <!--END_SECTION:waka-->
