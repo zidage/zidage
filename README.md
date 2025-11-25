@@ -20,7 +20,4 @@ Markdown     46 mins         █░░░░░░░░░░░░░░░░
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zidage&layout=compact&theme=radical)
 
-## GitHub Stats
-
-![Zidage's GitHub stats](https://github-readme-stats.vercel.app/api?username=zidage&show_icons=true&theme=radical)
 
