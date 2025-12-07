@@ -16,8 +16,6 @@ Python                8 mins          ▒░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zidage&layout=compact&theme=radical)
 
 
