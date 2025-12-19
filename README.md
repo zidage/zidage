@@ -8,10 +8,8 @@ My goal is to make software that is useful and powerful.
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       32 mins         ██████████████▓░░░░░░░░░░   58.59 %
-Markdown   16 mins         ███████▒░░░░░░░░░░░░░░░░░   29.41 %
-C++        4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
-Other      2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+Rust    32 mins         ███████████████████████▒░   93.76 %
+Other   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
 ```
 
 <!--END_SECTION:waka-->
