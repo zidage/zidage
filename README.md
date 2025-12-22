@@ -8,9 +8,11 @@ My goal is to make software that is useful and powerful.
 <!--START_SECTION:waka-->
 
 ```txt
-C++     1 hr 21 mins    █████████████████▒░░░░░░░   69.69 %
-Rust    32 mins         ███████░░░░░░░░░░░░░░░░░░   28.10 %
-Other   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+C++           6 hrs 27 mins   ██████████████████████▒░░   89.66 %
+Rust          32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+CMake         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Other         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
