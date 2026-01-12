@@ -8,11 +8,11 @@ My goal is to make software that is useful and powerful.
 <!--START_SECTION:waka-->
 
 ```txt
-C++                18 hrs 9 mins   █████████████░░░░░░░░░░░░   51.73 %
-Cuda               10 hrs 36 mins  ███████▓░░░░░░░░░░░░░░░░░   30.22 %
-Visual Basic 6.0   3 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
-Markdown           1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-CMake              1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+C++                15 hrs 45 mins  ████████████▒░░░░░░░░░░░░   49.97 %
+Cuda               9 hrs 59 mins   ████████░░░░░░░░░░░░░░░░░   31.68 %
+Visual Basic 6.0   3 hrs 17 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
+Markdown           1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+CMake              1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 ```
 
 <!--END_SECTION:waka-->
